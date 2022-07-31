@@ -11,8 +11,8 @@
 		<param name="update_min_a" value="0.75"/>
 
 		<!-- If you choose to define initial pose here -->
-		<param name="initial_pose_x" value="0"/>
-		<param name="initial_pose_y" value="0"/>
+		<param name="initial_pose_x" value="1.2"/>
+		<param name="initial_pose_y" value="2.4"/>
   	</node>
 	<node name = "move_base" pkg = "move_base" type = "move_base" respawn = "false" output = "screen">
 		<remap from="scan" to="/scan"/>
