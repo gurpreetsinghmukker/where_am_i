@@ -1,2 +1,4 @@
-# where_am_i
-![](amcl.gif)
+# Where Am I ?
+<p align = "center">
+	![](amcl.gif)
+</p>
